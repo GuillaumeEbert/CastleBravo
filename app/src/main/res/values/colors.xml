@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="api_progress_bar_preloader_start">#EC407A</color>
+    <color name="api_progress_bar_preloader_center">#F48FB1</color>
+    <color name="api_progress_bar_preloader_stop">#FCE4EC</color>
+</resources>

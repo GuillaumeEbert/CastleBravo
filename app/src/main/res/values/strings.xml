@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Castle Bravo</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_wifi">WifiActivity</string>
+
+
+    <string name="dialog_generic_button_yes">Yes</string>
+    <string name="dialog_generic_button_no">No</string>
+    <string name="dialog_generic_button_ok">OK</string>
+    <string name="dialog_generic_button_cancel">cancel</string>
+
+    <string name="wifi_dialog_alert_tittle">WI-FI</string>
+    <string name="alert_no_wifi_message">Turn the wifi on ?</string>
+
+    <string name="alert_wifi_disconnect_server_message">You have been disconnected from the server. Try to reconnect ?</string>
+    <string name="title_activity_bluetooth">BluetoothActivity</string>
+
+    <string name="api_bluetooth_dialog_alert_tittle">BLUETOOTH</string>
+    <string name="api_bluetooth_alert_message">This application need the bluetooth. Would you turn it on ?</string>
+
+    <string name="api_bluetooth_analyze_btn">Analyze</string>
+    <string name="title_activity_serial">SerialActivity</string>
+
+    <string name="api_serial_dialog_alert_tittle">SERIAL</string>
+    <string name="api_serial_no_device_alert_message"> This application need a device to be connected. Please connect a USB device </string>
+    <string name="api_serial_too_much_device_alert_message"> There are too much device connected. Only one is accepted please remote the others</string>
+
+
+</resources>
